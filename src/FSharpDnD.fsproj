@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageId>FSharpDnD</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>Valor</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageProjectUrl>https://github.com/games/FSharpDnD</PackageProjectUrl>
