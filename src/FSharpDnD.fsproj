@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>FSharpDnD</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Valor</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/games/FSharpDnD</PackageProjectUrl>
+    <Description>A core library for DnD using FSharp</Description>
+    <RepositoryUrl>https://github.com/games/FSharpDnD</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Maybe.fs" />
+    <Compile Include="Prelude.fs" />
+    <Compile Include="Types.fs" />
+    <Compile Include="Core.fs" />
+    <Compile Include="Spell.fs" />
+    <Compile Include="Combat.fs" />
+  </ItemGroup>
+
+</Project>
