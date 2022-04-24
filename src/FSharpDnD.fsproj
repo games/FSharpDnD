@@ -9,7 +9,7 @@
     <Description>A core library for DnD using FSharp</Description>
     <RepositoryUrl>https://github.com/games/FSharpDnD</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
